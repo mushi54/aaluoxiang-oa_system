@@ -11,3 +11,4 @@ git config --global mushi_54@163.com
 
 级别优先级：项目级别>系统用户级别
 
+test git log 
