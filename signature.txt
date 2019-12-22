@@ -13,4 +13,4 @@ git config --global mushi_54@163.com
 
 test git log
 
-test branch hot_fix
+test branch hot_fix master
