@@ -1,0 +1,12 @@
+签名：
+
+项目级别/仓库级别：仅在当前本地库范围内有效
+git config user.name mushi_54
+git config user.email mushi_54@163.com
+
+系统用户级别：登录当前操作系统的用户范围
+git config --global user.name administrator
+git config --global mushi_54@163.com
+
+级别优先级：项目级别>系统用户级别
+
